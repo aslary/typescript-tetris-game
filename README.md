@@ -1,4 +1,4 @@
-# Vector Blocks
+# Vector Blocks V2
 
 A polished, browser-playable Tetris game built with TypeScript. Stack pieces, clear lines, and see how long you can keep the board alive.
 
